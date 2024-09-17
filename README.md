@@ -12,9 +12,7 @@ making eye-catching banners 🚩, and creating realistic models 🎯.
 * I love working with others 🤝 and learning new stuff all the time 📚. It's going to be fun seeing 
 where my creative journey goes! 🌟</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trushengitdevloper&label=Profile%20views&color=0e75b6&style=flat" alt="trushengitdevloper" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trushengitdevloper" alt="trushengitdevloper" /></a> </p>
 
 - 💼My Portfolio Website ["Explore my vibrant portfolio! 🌟 It's like a colorful journey through my creativity, skills, and achievements. 🚀 You'll find fun designs, cool visuals, and lots of interesting stuff. Dive in and discover what makes me tick! 🎨📈🌟"](https://solanki-trushen.netlify.app/)
 
