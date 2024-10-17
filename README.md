@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" alt="Giphy GIF" style="max-width: 100%; height: 2500px;" />
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" alt="Giphy GIF" style="max-width: 100%; height: 250px;" />
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/solanki-trushen-874349248" target="_blank">Trushen Solanki</a> 
    <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 
