@@ -29,7 +29,9 @@
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
   ![Vue.js](https://img.shields.io/badge/vuejs-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
-  ![Angular](https://img.shields.io/badge/angular-%E03C31.svg?style=for-the-badge&logo=angular&logoColor=white)
+  ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+  ![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+
 
 - **Styling:**
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -37,14 +39,15 @@
   ![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
 
 ### Design Skills 🎨
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=solankitrushen&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=solankitrushen&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=solankitrushen&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+<img src="https://github-readme-stats.vercel.app/api?username=solankitrushen&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="max-width: 60%; height: auto; float: left; margin-right: 10%;" align="left"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solankitrushen&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Top Languages" style="max-width: 40%; height: auto; float: left;" align="right"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=solankitrushen&theme=dark&hide_border=false" alt="GitHub Streak" style="max-width: 100%; height: auto; clear: both; margin-top: 10px;" />
 
 [![GitHub followers](https://img.shields.io/github/followers/solankitrushen.svg?style=social&label=Follow)](https://github.com/solankitrushen?tab=followers)
