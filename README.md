@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Next.js, Redux**
 - 🤝 I’m looking for help with [Kido-Space](https://github.com/solankitrushen/Kido-Space.git)
 - 👨‍💻 All of my projects are available at [Github Profile](https://github.com/solankitrushen)
-- 💫 Check Out My [Portfolio](https://trusehn.vercel.aoo)
+- 💫 Check Out My [Portfolio](https://trusehn.vercel.app)
 - 📫 How to reach me: **solankitrushen@gmail.com**
 
 <br>
